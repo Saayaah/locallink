@@ -53,6 +53,9 @@ Add Bus Stops: Tap anywhere on the map to place a new bus stop marker.
 Contribute Data: Click the "Ask Bus Timings" button to provide information on bus routes and schedules via a pop-up dialog.
 # Our Team
 Sayanth Krishna KS
+
 Noble Poly
+
 Fathima Fidha
+
 rudain Shiyas
